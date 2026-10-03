@@ -3,7 +3,7 @@
 > **Looking for the trading bot?** The companion execution engine (FastAPI
 > webhook worker, risk engine, Postgres ledger, live dashboard) lives in a
 > private repo since it contains proprietary strategy logic. Email me at
-> [your email] for access — happy to share with hiring teams.
+> 21devin.damar21@gmail.com for access — happy to share with hiring teams.
 
 Manage your TradingView alerts from Hermes Agent (or Claude Desktop / Cursor /
 Claude Code) in plain language: create Pine **strategy** alerts wired to your
